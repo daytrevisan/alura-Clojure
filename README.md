@@ -7,3 +7,7 @@
 - Functions and parameters;
 - Bigint e bigdecimal;
 - Multiple let and conditionals
+
+### Aula 2
+- Functions;
+- Functions as parameters
