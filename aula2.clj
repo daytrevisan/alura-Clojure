@@ -1,6 +1,5 @@
 (ns curso.aula2)
 
-
 ; FUNÇÕES
 
 ; Função para impressão de mensagem
