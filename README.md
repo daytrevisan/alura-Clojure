@@ -11,3 +11,10 @@
 ### Aula 2
 - Functions;
 - Functions as parameters
+
+### Aula 3
+- Predicate;
+- When;
+- Binding;
+- Anonymous functions;
+- Lambda functions
