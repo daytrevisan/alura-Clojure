@@ -18,3 +18,8 @@
 - Binding;
 - Anonymous functions;
 - Lambda functions
+
+### Aula 4
+- Vectors, Get and Updates;
+- Map and Filter;
+- Reduce and variations
