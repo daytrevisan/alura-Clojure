@@ -23,3 +23,7 @@
 - Vectors, Get and Updates;
 - Map and Filter;
 - Reduce and variations
+
+### Aula 5
+- Maps, Vals and Keys;
+- Nested maps update-in and threading first
