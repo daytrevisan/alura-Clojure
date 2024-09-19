@@ -1,6 +1,7 @@
 (ns curso.aula5)
 
 ; COLEÇÕES
+; MAPS AND THREADING
 
 ; Coleção associativa
 ; Implementação de mapa -> hashmap
