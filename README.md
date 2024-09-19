@@ -27,3 +27,8 @@
 ### Aula 5
 - Maps, Vals and Keys;
 - Nested maps update-in and threading first
+
+### Aula 6
+- Destruct sequence, map, reduce in maps and thread last;
+- Filtering maps and creating compositions with comp;
+- Map reduce
